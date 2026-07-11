@@ -1,0 +1,5002 @@
+[
+  {
+    "transaction_id": "txn_0",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1257.3729919899943
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_1",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 779.3532592669952
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_2",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 728.0099454880256
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_3",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 939.1478388997951
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_4",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 893.9036613611773
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_5",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1113.7824910501752
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_6",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 520.2045233596629
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_7",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1015.9523064351622
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_8",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 852.6962629868921
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_9",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1418.817671991265
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_10",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1361.39194190718
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_11",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1069.553052146778
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_12",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 923.5001842318169
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_13",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 859.7225253237925
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_14",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 873.7347199375052
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_15",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1077.9340235981433
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_16",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1134.680516474522
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_17",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1142.3672337912612
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_18",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 811.8077204875486
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_19",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 925.015526963976
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_20",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1054.8779216350006
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_21",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 918.6570362593422
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_22",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 755.473043360025
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_23",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1218.2195703103785
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_24",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 929.7270010677285
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_25",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1188.0541489866584
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_26",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 903.6736198030454
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_27",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 957.1795117599635
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_28",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 927.7715568263433
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_29",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 890.6674174846929
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_30",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1198.2060245619396
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_31",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 828.5351857995839
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_32",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1137.2006236156053
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_33",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1160.7961447669816
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_34",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 988.9554681511443
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_35",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 971.2030990920789
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_36",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1137.0570384424918
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_37",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 811.210337402596
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_38",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1082.8674650984933
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_39",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 973.5147336671074
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_40",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1280.9800892943977
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_41",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 762.514158909433
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_42",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 825.3409011743613
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_43",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1062.8474803366166
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_44",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 696.4457103087728
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_45",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1171.729988191509
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_46",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 767.0505396587575
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_47",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 921.5645187579624
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_48",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1141.2513512698706
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_49",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 635.279727875258
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_50",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1093.6833841796138
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_51",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1072.1608436250815
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_52",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 705.524839920769
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_53",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 981.5220925274128
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_54",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 751.2848562783103
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_55",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 773.8628337193517
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_56",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 571.8330525832944
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_57",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1157.329121759194
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_58",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 868.5542712340421
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_59",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1258.0232193198283
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_60",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 865.1881801767444
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_61",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1024.1798529578964
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_62",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 582.7820192799088
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_63",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 799.3994407158145
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_64",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 982.6617993293281
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_65",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1191.2563283443885
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_66",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1043.0089192288533
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_67",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 800.2011188640682
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_68",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 815.2247473737824
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_69",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1137.401003497925
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_70",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 927.4129658230908
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_71",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 807.7913365971281
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_72",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 865.4679837284659
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_73",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1218.2852967007157
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_74",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 941.1690478090312
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_75",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 991.3630339643398
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_76",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1159.2303710730473
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_77",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 889.0912072090371
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_78",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 929.4178611669679
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_79",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 949.387202236496
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_80",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 513.2386881358759
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_81",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 825.2500534742866
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_82",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1351.413455756976
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_83",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1064.3399623399187
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_84",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 934.0340376004826
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_85",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 707.6584271402475
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_86",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 820.7175779725336
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_87",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 612.5800714787971
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_88",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1509.3054287266789
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_89",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 667.5113942544594
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_90",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 718.2373781081058
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_91",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 873.2942820204224
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_92",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 857.0487448984243
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_93",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1146.8738971625799
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_94",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 870.5802875378371
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_95",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1130.723557347653
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_96",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 976.3141805105453
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_97",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 716.7472806165005
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_98",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1119.2214374161906
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_99",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 918.6316823655694
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_100",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1145.4697280276414
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_101",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 512.439450044033
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_102",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1032.836623092146
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_103",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 967.14762336308
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_104",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 661.6529878512432
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_105",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1543.2669412578675
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_106",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 981.2583994262345
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_107",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1030.1153040173008
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_108",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 973.6159979298554
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_109",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1817.6083322971408
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_110",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 834.2651886534971
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_111",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1208.1996600490595
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_112",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1040.1100959279747
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_113",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1094.6789995908257
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_114",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1009.4586691876113
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_115",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1072.5917037740908
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_116",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 882.7825030806796
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_117",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 903.9901178079668
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_118",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1100.244469584907
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_119",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 822.8888844686833
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_120",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1034.3614801435465
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_121",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1172.918704552004
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_122",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1183.7795863475326
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_123",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 994.7376407416574
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_124",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1073.8246845914061
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_125",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1005.1458233935308
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_126",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 570.0128973609317
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_127",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1173.3462978094788
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_128",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1038.1691946797619
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_129",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1257.9494519014754
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_130",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1123.960428473002
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_131",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1441.8747082516848
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_132",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 766.353800452458
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_133",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 849.8683411937714
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_134",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 940.3028880359111
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_135",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 641.4694181975692
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_136",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1341.214077160866
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_137",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1084.738966505991
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_138",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1207.0242449378432
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_139",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1221.9972943035918
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_140",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1154.2218224607536
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_141",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1041.5870361463049
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_142",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1008.3985414581418
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_143",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1055.7619503242763
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_144",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 732.5434419365372
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_145",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 696.4178675885871
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_146",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 657.5693502578793
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_147",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1425.4693032213872
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_148",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1038.3441854440346
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_149",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 994.7211234166009
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_150",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 996.9150804593446
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_151",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1026.1059477215101
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_152",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1104.9091548879544
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_153",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 909.2424078369221
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_154",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1329.6864248426828
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_155",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 659.330336296189
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_156",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1034.0330713955148
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_157",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1139.3046619965164
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_158",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 988.6242272247262
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_159",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1089.4344823876518
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_160",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 878.4880503962919
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_161",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 805.2449472062091
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_162",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 951.7915557100062
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_163",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1047.0808418050735
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_164",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 815.0196544278508
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_165",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 733.7943727538533
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_166",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 999.0686737586544
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_167",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1020.7399736028932
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_168",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 546.1758131033596
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_169",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1195.1385593872192
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_170",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 613.1194846834417
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_171",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 879.3857255291025
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_172",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 960.673626460346
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_173",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1087.530447673799
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_174",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 818.923005290992
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_175",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 770.8453275360939
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_176",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 943.6251777533722
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_177",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1030.0073431596952
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_178",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 842.9580118002388
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_179",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 737.0275742215108
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_180",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 631.516063644709
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_181",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1152.7814555599248
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_182",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 976.9520536763343
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_183",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1142.3243061055623
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_184",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 830.502074331047
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_185",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 967.7092280685738
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_186",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1166.3588873303672
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_187",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 795.5923103578549
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_188",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1070.6061145483575
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_189",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 719.3035139614633
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_190",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 914.8453542588383
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_191",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 872.9839729811762
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_192",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 875.6813798457906
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_193",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 875.179044338033
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_194",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 779.3982809672211
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_195",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 925.3974239910269
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_196",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 938.9655131735742
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_197",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1040.527168001203
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_198",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 854.784944176663
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_199",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1074.276014630313
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_200",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 924.1245397161159
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_201",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 988.6130265563237
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_202",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 660.6191674288568
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_203",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 896.8674103313665
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_204",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1033.775152171895
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_205",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 413.2918188448284
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_206",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1017.1707967219535
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_207",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1001.372533925402
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_208",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1037.3339783899075
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_209",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1033.159799522161
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_210",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1097.791496864384
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_211",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 847.9398467270491
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_212",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 766.7647113099326
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_213",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 959.7668665874053
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_214",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1070.2343981312358
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_215",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1192.6620124824753
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_216",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1243.559731502711
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_217",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1244.6275647696475
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_218",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 663.3187750835802
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_219",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 886.3476803594689
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_220",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 711.2901197726217
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_221",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1237.3715943134803
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_222",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 971.3489725636001
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_223",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1207.6985601930016
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_224",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 991.5966209382464
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_225",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 702.2540577668052
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_226",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 776.8564629713666
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_227",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 591.2237854328953
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_228",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 950.0750119124581
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_229",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 934.6822628614838
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_230",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1104.5129403495152
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_231",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 699.5792195404042
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_232",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1084.5154004766614
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_233",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 811.3363089602974
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_234",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1159.348363370074
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_235",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1293.768990960623
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_236",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 900.8919005729651
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_237",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1342.9559348141424
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_238",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 980.3307585884999
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_239",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 842.2858563734262
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_240",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 785.383028223227
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_241",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1217.9768701946396
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_242",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 918.9876538854526
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_243",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 927.2650516476843
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_244",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 940.2643592598757
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_245",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 961.181398910409
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_246",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1126.304668605221
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_247",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 756.9739928353757
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_248",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1263.4241042797685
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_249",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 640.9688105747787
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_250",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1182.5606497533058
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_251",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1014.4267224164574
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_252",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1419.3165966587999
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_253",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 822.2303933063448
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_254",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1216.3747140954938
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_255",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 844.4467260088825
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_256",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 980.7795721901183
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_257",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 792.0506971377512
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_258",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 943.1582547203418
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_259",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 991.3044759568002
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_260",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 927.0830945171642
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_261",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1399.6807413884649
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_262",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 998.8523558333744
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_263",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 642.3841709688843
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_264",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1499.7496049909773
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_265",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1140.2889162911588
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_266",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1071.1291965467135
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_267",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1107.3282074592767
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_268",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 732.9177992767984
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_269",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 967.7103053411255
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_270",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 887.4374815356032
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_271",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1003.3231000464593
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_272",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 522.7537453684602
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_273",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1004.1034571657832
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_274",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1225.878550054967
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_275",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 877.2593729681337
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_276",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1176.3694556109224
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_277",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1126.446860259271
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_278",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1040.8552008594577
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_279",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1103.3443926135835
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_280",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1287.4405551111288
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_281",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1187.393808735159
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_282",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 932.5576267025184
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_283",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 887.0917987558008
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_284",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1026.7062375328544
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_285",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1131.6537177087064
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_286",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 857.5476638813569
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_287",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 931.5986812471432
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_288",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1079.0454962183533
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_289",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1254.3558713422822
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_290",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 981.6226207079694
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_291",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 587.3271142521154
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_292",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 735.1625263541741
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_293",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 973.5089679251076
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_294",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 488.2038275855002
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_295",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1268.8927304245826
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_296",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1322.951187740678
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_297",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 750.625372445422
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_298",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1545.19591582639
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_299",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1221.4724736133787
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_300",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1011.6553404232413
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_301",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1089.4232005114538
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_302",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 900.5028512577179
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_303",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1056.3246318277431
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_304",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1202.8736714733354
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_305",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 902.0785731329958
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_306",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1216.7577567013354
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_307",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 726.3769079751331
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_308",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 843.162867108949
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_309",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 893.627376637159
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_310",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 908.6632723656543
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_311",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1364.162738629216
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_312",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1066.8563920756146
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_313",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1421.131809417572
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_314",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 754.5960567271213
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_315",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 901.0117566647626
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_316",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 996.8986872784998
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_317",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 805.5001119020507
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_318",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 888.1076374194898
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_319",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1268.7530426325052
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_320",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1102.186239621532
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_321",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1068.432707786252
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_322",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1202.9054857941653
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_323",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1100.9917771128355
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_324",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1056.7797322492218
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_325",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 878.5813376806155
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_326",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 946.4155787070603
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_327",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 843.2310960922142
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_328",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 806.1245088889658
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_329",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1153.8666257957454
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_330",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1028.158646947565
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_331",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 783.1223915351709
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_332",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1044.4098312389342
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_333",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1224.5468718744573
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_334",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1151.5046192485127
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_335",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 806.8374589091055
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_336",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1211.1008863342493
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_337",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1349.171366707678
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_338",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 868.7510946393106
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_339",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1082.2241488597856
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_340",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 810.7003379230031
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_341",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1172.2950673105152
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_342",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 937.1249535506752
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_343",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1137.5756555331195
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_344",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 792.335984076277
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_345",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1138.5083592372619
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_346",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 769.1002090756865
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_347",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1058.916532903602
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_348",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1140.801784055817
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_349",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1114.5906416335115
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_350",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1106.0210944145217
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_351",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1117.748518140015
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_352",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1440.5594489304171
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_353",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1003.973268960331
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_354",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1177.9383692273777
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_355",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 889.6971638292289
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_356",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1004.6592165500828
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_357",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1114.998016958654
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_358",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1330.8816333400125
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_359",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 917.6999884341548
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_360",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1053.5394714756019
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_361",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 649.8084203099356
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_362",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1175.9317301232911
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_363",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1495.6582187906893
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_364",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1089.05580756198
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_365",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 986.4385341823253
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_366",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 834.6287344041402
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_367",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 720.403038892356
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_368",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1168.4186420962756
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_369",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 956.8119376331726
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_370",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 775.5129281722592
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_371",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1131.9333511132907
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_372",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1034.5016067870768
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_373",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 866.495921640874
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_374",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 994.5265339444985
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_375",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 815.166564102521
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_376",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 761.088673478791
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_377",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 932.9464714296291
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_378",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1072.2437704639108
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_379",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 907.1390936911122
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_380",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1152.0923569111394
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_381",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1173.7456004538512
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_382",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1218.364408066753
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_383",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 901.1655553495799
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_384",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 965.7309992906644
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_385",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1619.147512306808
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_386",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1129.84156623024
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_387",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1142.1709554371405
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_388",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1302.5218027403628
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_389",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1039.484651592515
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_390",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1065.1951380774456
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_391",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 941.7024576357829
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_392",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 717.4171894024424
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_393",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 922.6116551676535
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_394",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 884.2405946398009
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_395",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1176.6164664862292
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_396",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1014.93705923004
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_397",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1099.1641733356712
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_398",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 731.9486192371028
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_399",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1384.9521988913616
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_400",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 875.9844550155194
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_401",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 814.3908602796521
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_402",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 813.8403179754271
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_403",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1434.0901912560573
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_404",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 998.5100997788459
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_405",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 922.2232788307139
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_406",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 555.7144494244982
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_407",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 999.1623420191323
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_408",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 996.8568564693167
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_409",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 627.2214571586277
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_410",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 946.0010481491504
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_411",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1017.901438916493
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_412",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 541.8781447113327
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_413",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 866.9603619830791
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_414",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1010.4839467514078
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_415",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1326.9525102625696
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_416",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 882.6933556906276
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_417",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1296.1566906827534
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_418",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1064.7671187342257
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_419",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1233.9352044423513
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_420",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 865.7840817286641
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_421",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1013.2172480145654
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_422",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1078.3216007198396
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_423",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1028.0782159313558
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_424",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1089.3349786414476
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_425",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 724.465354192386
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_426",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1031.8925784007674
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_427",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1284.0764384803174
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_428",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 829.2609785044103
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_429",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 905.5112402776977
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_430",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1505.8827340502812
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_431",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 956.7431009131504
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_432",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1080.2044500117138
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_433",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1314.3798384360261
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_434",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1318.2686613872766
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_435",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 995.1699991698994
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_436",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1063.5642930091676
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_437",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 891.7734477513565
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_438",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 868.4564694279709
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_439",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1096.3464422257769
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_440",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 764.1228966241621
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_441",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 819.2756112237865
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_442",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1195.2852851881778
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_443",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1214.2245309652365
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_444",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1224.230220850403
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_445",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1285.1935124508423
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_446",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 944.3476204170742
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_447",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 915.8180942493431
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_448",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1163.1249837045011
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_449",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1103.3878503099738
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_450",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 836.9686638635671
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_451",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 954.7777629284219
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_452",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1239.0198474861236
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_453",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 745.4988222494756
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_454",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 886.7173951625026
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_455",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1247.8360571429798
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_456",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1047.382164605734
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_457",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 991.2817690429632
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_458",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 874.5225814984727
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_459",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1464.8316564636093
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_460",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1052.5781228317899
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_461",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 808.003711951736
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_462",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 769.1438485762776
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_463",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1205.2053500425004
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_464",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 885.2027645105452
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_465",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 887.2433822110684
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_466",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 832.5184667575802
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_467",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 928.1098331923587
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_468",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 732.4553956286888
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_469",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 718.6828924964552
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_470",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1184.8624118375315
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_471",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1162.2379877682451
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_472",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1154.2136239932136
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_473",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 988.2420591608321
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_474",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 753.7254742192645
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_475",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 990.9482346035293
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_476",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1251.2446416186995
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_477",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 698.4382813875771
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_478",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 736.6366246334833
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_479",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 851.0317024105791
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_480",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1136.8181600350072
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_481",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1170.686276072562
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_482",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 784.6202248298648
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_483",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 923.9977129691438
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_484",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 656.6803775948329
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_485",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 921.297946297524
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_486",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 776.4753448203357
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_487",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1328.8746984193995
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_488",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 860.7410625244848
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_489",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 861.5395058734355
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_490",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 931.9109493480003
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_491",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 921.1442380846925
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_492",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 1251.3928671253816
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_493",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1067.553014449083
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_494",
+    "user": {
+      "account_type": "basic",
+      "account_balance": 838.7218329314298
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_495",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 970.689334207234
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_496",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1158.7446886512153
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_497",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1142.4035460138389
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_498",
+    "user": {
+      "account_type": "enterprise",
+      "account_balance": 1414.4283977296247
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  },
+  {
+    "transaction_id": "txn_499",
+    "user": {
+      "account_type": "premium",
+      "account_balance": 1008.7268025866877
+    },
+    "metadata": {
+      "region": "us-east-1"
+    }
+  }
+]

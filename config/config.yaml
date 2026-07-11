@@ -1,0 +1,45 @@
+# config.yaml
+global_settings:
+  es_host: "https://localhost:9200"
+  alerts_index: "api-alerts-index"
+  cron_interval_minutes: 60
+
+apis:
+  - api_name: "payment_gateway_v1"
+    source_index: "logs-payment-api-*"
+    
+    # 1. Metrics to Aggregate (Data Layer)
+    metrics:
+      interval: "15m"
+      aggregations:
+        - name: "p95_latency"
+          field: "response_time_ms"
+          type: "percentile"
+          percentile: 95
+        - name: "error_rate"
+          field: "status_code"
+          type: "error_percentage" # Custom logic to calculate 5xx / total
+        - name: "request_count"
+          field: "_id"
+          type: "count"
+
+    # 2. Anomaly Detection (ML Layer / Future TSFM Layer)
+    anomaly_detection:
+      enabled: true
+      model_type: "pyod_isolation_forest" # Later change to: "hf_chronos_t5_small"
+      features: ["p95_latency", "error_rate"]
+      params:
+        contamination: 0.05 # For PyOD
+        # hf_local_path: "/models/chronos-t5-small" # For later stages
+
+    # 3. Payload & Drift Detection (DeepDiff & Evidently)
+    payload_monitoring:
+      enabled: true
+      sample_size: 1000 # Number of raw docs to pull for schema comparison
+      schema_diff:
+        library: "deepdiff"
+        ignore_order: true
+      drift_detection:
+        library: "evidently"
+        metric: "population_stability_index"
+        target_fields: ["user.account_balance", "transaction.amount"]

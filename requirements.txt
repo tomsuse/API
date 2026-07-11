@@ -1,0 +1,23 @@
+# --- Data & Processing Layer ---
+elasticsearch>=8.0.0      # Official ES client
+polars>=0.20.0            # Fast in-memory dataframe
+pyarrow>=14.0.0           # Required by Polars for zero-copy pandas/numpy conversions
+
+# --- ML & Anomaly Detection Layer ---
+numpy<=2.4.6              # Pinned to satisfy Numba/PyOD requirements
+scikit-learn>=1.3.0       # Base ML utilities
+pyod>=1.1.2               # Python Outlier Detection (Isolation Forest)
+
+# --- Payload & Drift Detection Layer ---
+deepdiff>=6.7.1           # Deterministic JSON schema comparison
+evidently==0.6.7          # Pinned to 0.6.7 to retain ColumnDriftMetric API but fix Pydantic bugs
+pydantic>=2.13.0          # Pinned to v2+ to prevent Evidently conflicts
+pandas>=2.1.0             # Required by Evidently AI
+
+# --- UI Layer ---
+streamlit>=1.30.0         # Frontend framework
+plotly>=5.18.0            # Interactive charting
+
+# --- Utilities ---
+PyYAML>=6.0.1             # To parse config.yaml
+python-dateutil>=2.8.2    # Timezone and date parsing utilities

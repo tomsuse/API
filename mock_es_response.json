@@ -1,0 +1,1324 @@
+{
+  "took": 45,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10000,
+      "relation": "gte"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "api_traffic_over_time": {
+      "buckets": [
+        {
+          "key_as_string": "2026-07-10T19:42:51.060408Z",
+          "key": 1783692771060,
+          "doc_count": 3291,
+          "p95_latency": {
+            "values": {
+              "95.0": 286.84475487192765
+            }
+          },
+          "error_count": {
+            "value": 38
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T19:57:51.060408Z",
+          "key": 1783693671060,
+          "doc_count": 4295,
+          "p95_latency": {
+            "values": {
+              "95.0": 204.05725777703915
+            }
+          },
+          "error_count": {
+            "value": 8
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T20:12:51.060408Z",
+          "key": 1783694571060,
+          "doc_count": 4580,
+          "p95_latency": {
+            "values": {
+              "95.0": 133.78220493518884
+            }
+          },
+          "error_count": {
+            "value": 22
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T20:27:51.060408Z",
+          "key": 1783695471060,
+          "doc_count": 4742,
+          "p95_latency": {
+            "values": {
+              "95.0": 120.3837221973411
+            }
+          },
+          "error_count": {
+            "value": 44
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T20:42:51.060408Z",
+          "key": 1783696371060,
+          "doc_count": 2758,
+          "p95_latency": {
+            "values": {
+              "95.0": 106.51987841468787
+            }
+          },
+          "error_count": {
+            "value": 17
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T20:57:51.060408Z",
+          "key": 1783697271060,
+          "doc_count": 4852,
+          "p95_latency": {
+            "values": {
+              "95.0": 167.56064955026403
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T21:12:51.060408Z",
+          "key": 1783698171060,
+          "doc_count": 1465,
+          "p95_latency": {
+            "values": {
+              "95.0": 154.89895495680622
+            }
+          },
+          "error_count": {
+            "value": 25
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T21:27:51.060408Z",
+          "key": 1783699071060,
+          "doc_count": 1600,
+          "p95_latency": {
+            "values": {
+              "95.0": 150.01990242619877
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T21:42:51.060408Z",
+          "key": 1783699971060,
+          "doc_count": 3429,
+          "p95_latency": {
+            "values": {
+              "95.0": 248.89092601713955
+            }
+          },
+          "error_count": {
+            "value": 15
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T21:57:51.060408Z",
+          "key": 1783700871060,
+          "doc_count": 1854,
+          "p95_latency": {
+            "values": {
+              "95.0": 218.4323318212207
+            }
+          },
+          "error_count": {
+            "value": 20
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T22:12:51.060408Z",
+          "key": 1783701771060,
+          "doc_count": 2724,
+          "p95_latency": {
+            "values": {
+              "95.0": 127.29618408563184
+            }
+          },
+          "error_count": {
+            "value": 21
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T22:27:51.060408Z",
+          "key": 1783702671060,
+          "doc_count": 2892,
+          "p95_latency": {
+            "values": {
+              "95.0": 190.2293055436908
+            }
+          },
+          "error_count": {
+            "value": 6
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T22:42:51.060408Z",
+          "key": 1783703571060,
+          "doc_count": 1950,
+          "p95_latency": {
+            "values": {
+              "95.0": 242.25077637013703
+            }
+          },
+          "error_count": {
+            "value": 21
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T22:57:51.060408Z",
+          "key": 1783704471060,
+          "doc_count": 1093,
+          "p95_latency": {
+            "values": {
+              "95.0": 257.4995220709886
+            }
+          },
+          "error_count": {
+            "value": 48
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T23:12:51.060408Z",
+          "key": 1783705371060,
+          "doc_count": 4169,
+          "p95_latency": {
+            "values": {
+              "95.0": 215.6398675989999
+            }
+          },
+          "error_count": {
+            "value": 21
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T23:27:51.060408Z",
+          "key": 1783706271060,
+          "doc_count": 3439,
+          "p95_latency": {
+            "values": {
+              "95.0": 263.5312780493455
+            }
+          },
+          "error_count": {
+            "value": 29
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T23:42:51.060408Z",
+          "key": 1783707171060,
+          "doc_count": 2473,
+          "p95_latency": {
+            "values": {
+              "95.0": 131.43597667999995
+            }
+          },
+          "error_count": {
+            "value": 15
+          }
+        },
+        {
+          "key_as_string": "2026-07-10T23:57:51.060408Z",
+          "key": 1783708071060,
+          "doc_count": 2892,
+          "p95_latency": {
+            "values": {
+              "95.0": 163.40260786243846
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T00:12:51.060408Z",
+          "key": 1783708971060,
+          "doc_count": 4026,
+          "p95_latency": {
+            "values": {
+              "95.0": 160.94697187459914
+            }
+          },
+          "error_count": {
+            "value": 11
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T00:27:51.060408Z",
+          "key": 1783709871060,
+          "doc_count": 4361,
+          "p95_latency": {
+            "values": {
+              "95.0": 107.58926238026557
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T00:42:51.060408Z",
+          "key": 1783710771060,
+          "doc_count": 1732,
+          "p95_latency": {
+            "values": {
+              "95.0": 291.25056377151725
+            }
+          },
+          "error_count": {
+            "value": 11
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T00:57:51.060408Z",
+          "key": 1783711671060,
+          "doc_count": 3334,
+          "p95_latency": {
+            "values": {
+              "95.0": 949.9454120022903
+            }
+          },
+          "error_count": {
+            "value": 310
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T01:12:51.060408Z",
+          "key": 1783712571060,
+          "doc_count": 2962,
+          "p95_latency": {
+            "values": {
+              "95.0": 170.7208246379779
+            }
+          },
+          "error_count": {
+            "value": 5
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T01:27:51.060408Z",
+          "key": 1783713471060,
+          "doc_count": 4120,
+          "p95_latency": {
+            "values": {
+              "95.0": 169.82245193976723
+            }
+          },
+          "error_count": {
+            "value": 36
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T01:42:51.060408Z",
+          "key": 1783714371060,
+          "doc_count": 3769,
+          "p95_latency": {
+            "values": {
+              "95.0": 286.73648872074614
+            }
+          },
+          "error_count": {
+            "value": 26
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T01:57:51.060408Z",
+          "key": 1783715271060,
+          "doc_count": 4505,
+          "p95_latency": {
+            "values": {
+              "95.0": 273.4245130469966
+            }
+          },
+          "error_count": {
+            "value": 39
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T02:12:51.060408Z",
+          "key": 1783716171060,
+          "doc_count": 2866,
+          "p95_latency": {
+            "values": {
+              "95.0": 159.49618203704443
+            }
+          },
+          "error_count": {
+            "value": 36
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T02:27:51.060408Z",
+          "key": 1783717071060,
+          "doc_count": 3927,
+          "p95_latency": {
+            "values": {
+              "95.0": 253.14911452368312
+            }
+          },
+          "error_count": {
+            "value": 9
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T02:42:51.060408Z",
+          "key": 1783717971060,
+          "doc_count": 2307,
+          "p95_latency": {
+            "values": {
+              "95.0": 274.51247142783757
+            }
+          },
+          "error_count": {
+            "value": 26
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T02:57:51.060408Z",
+          "key": 1783718871060,
+          "doc_count": 4962,
+          "p95_latency": {
+            "values": {
+              "95.0": 100.7801565003943
+            }
+          },
+          "error_count": {
+            "value": 15
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T03:12:51.060408Z",
+          "key": 1783719771060,
+          "doc_count": 1393,
+          "p95_latency": {
+            "values": {
+              "95.0": 103.98212485780545
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T03:27:51.060408Z",
+          "key": 1783720671060,
+          "doc_count": 2892,
+          "p95_latency": {
+            "values": {
+              "95.0": 266.4006058610421
+            }
+          },
+          "error_count": {
+            "value": 6
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T03:42:51.060408Z",
+          "key": 1783721571060,
+          "doc_count": 3572,
+          "p95_latency": {
+            "values": {
+              "95.0": 283.7656449202261
+            }
+          },
+          "error_count": {
+            "value": 13
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T03:57:51.060408Z",
+          "key": 1783722471060,
+          "doc_count": 1376,
+          "p95_latency": {
+            "values": {
+              "95.0": 189.79835958361153
+            }
+          },
+          "error_count": {
+            "value": 5
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T04:12:51.060408Z",
+          "key": 1783723371060,
+          "doc_count": 1299,
+          "p95_latency": {
+            "values": {
+              "95.0": 198.31900698425392
+            }
+          },
+          "error_count": {
+            "value": 34
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T04:27:51.060408Z",
+          "key": 1783724271060,
+          "doc_count": 3141,
+          "p95_latency": {
+            "values": {
+              "95.0": 235.87109237733867
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T04:42:51.060408Z",
+          "key": 1783725171060,
+          "doc_count": 1915,
+          "p95_latency": {
+            "values": {
+              "95.0": 296.9892998593326
+            }
+          },
+          "error_count": {
+            "value": 17
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T04:57:51.060408Z",
+          "key": 1783726071060,
+          "doc_count": 2690,
+          "p95_latency": {
+            "values": {
+              "95.0": 163.80813958690314
+            }
+          },
+          "error_count": {
+            "value": 17
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T05:12:51.060408Z",
+          "key": 1783726971060,
+          "doc_count": 4615,
+          "p95_latency": {
+            "values": {
+              "95.0": 882.6575982019838
+            }
+          },
+          "error_count": {
+            "value": 208
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T05:27:51.060408Z",
+          "key": 1783727871060,
+          "doc_count": 4952,
+          "p95_latency": {
+            "values": {
+              "95.0": 139.70190296584263
+            }
+          },
+          "error_count": {
+            "value": 36
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T05:42:51.060408Z",
+          "key": 1783728771060,
+          "doc_count": 1674,
+          "p95_latency": {
+            "values": {
+              "95.0": 205.1842870742118
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T05:57:51.060408Z",
+          "key": 1783729671060,
+          "doc_count": 4401,
+          "p95_latency": {
+            "values": {
+              "95.0": 120.71088936747722
+            }
+          },
+          "error_count": {
+            "value": 10
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T06:12:51.060408Z",
+          "key": 1783730571060,
+          "doc_count": 4945,
+          "p95_latency": {
+            "values": {
+              "95.0": 914.3050812054548
+            }
+          },
+          "error_count": {
+            "value": 378
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T06:27:51.060408Z",
+          "key": 1783731471060,
+          "doc_count": 2326,
+          "p95_latency": {
+            "values": {
+              "95.0": 151.53651326994884
+            }
+          },
+          "error_count": {
+            "value": 17
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T06:42:51.060408Z",
+          "key": 1783732371060,
+          "doc_count": 3054,
+          "p95_latency": {
+            "values": {
+              "95.0": 208.09820913113873
+            }
+          },
+          "error_count": {
+            "value": 38
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T06:57:51.060408Z",
+          "key": 1783733271060,
+          "doc_count": 2213,
+          "p95_latency": {
+            "values": {
+              "95.0": 250.07287662831843
+            }
+          },
+          "error_count": {
+            "value": 23
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T07:12:51.060408Z",
+          "key": 1783734171060,
+          "doc_count": 2997,
+          "p95_latency": {
+            "values": {
+              "95.0": 156.43076218736172
+            }
+          },
+          "error_count": {
+            "value": 14
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T07:27:51.060408Z",
+          "key": 1783735071060,
+          "doc_count": 3508,
+          "p95_latency": {
+            "values": {
+              "95.0": 107.14187051180208
+            }
+          },
+          "error_count": {
+            "value": 39
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T07:42:51.060408Z",
+          "key": 1783735971060,
+          "doc_count": 4418,
+          "p95_latency": {
+            "values": {
+              "95.0": 161.97471389579286
+            }
+          },
+          "error_count": {
+            "value": 13
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T07:57:51.060408Z",
+          "key": 1783736871060,
+          "doc_count": 3037,
+          "p95_latency": {
+            "values": {
+              "95.0": 276.79838696488196
+            }
+          },
+          "error_count": {
+            "value": 33
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T08:12:51.060408Z",
+          "key": 1783737771060,
+          "doc_count": 4937,
+          "p95_latency": {
+            "values": {
+              "95.0": 153.0809404842633
+            }
+          },
+          "error_count": {
+            "value": 18
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T08:27:51.060408Z",
+          "key": 1783738671060,
+          "doc_count": 3855,
+          "p95_latency": {
+            "values": {
+              "95.0": 228.91819728471486
+            }
+          },
+          "error_count": {
+            "value": 13
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T08:42:51.060408Z",
+          "key": 1783739571060,
+          "doc_count": 3518,
+          "p95_latency": {
+            "values": {
+              "95.0": 105.37469735776628
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T08:57:51.060408Z",
+          "key": 1783740471060,
+          "doc_count": 3772,
+          "p95_latency": {
+            "values": {
+              "95.0": 203.49673472034073
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T09:12:51.060408Z",
+          "key": 1783741371060,
+          "doc_count": 3446,
+          "p95_latency": {
+            "values": {
+              "95.0": 105.44862863152609
+            }
+          },
+          "error_count": {
+            "value": 44
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T09:27:51.060408Z",
+          "key": 1783742271060,
+          "doc_count": 3882,
+          "p95_latency": {
+            "values": {
+              "95.0": 107.16852042862861
+            }
+          },
+          "error_count": {
+            "value": 32
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T09:42:51.060408Z",
+          "key": 1783743171060,
+          "doc_count": 1727,
+          "p95_latency": {
+            "values": {
+              "95.0": 175.84637539836578
+            }
+          },
+          "error_count": {
+            "value": 5
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T09:57:51.060408Z",
+          "key": 1783744071060,
+          "doc_count": 3869,
+          "p95_latency": {
+            "values": {
+              "95.0": 215.32437996723675
+            }
+          },
+          "error_count": {
+            "value": 14
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T10:12:51.060408Z",
+          "key": 1783744971060,
+          "doc_count": 2704,
+          "p95_latency": {
+            "values": {
+              "95.0": 191.7773849139945
+            }
+          },
+          "error_count": {
+            "value": 13
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T10:27:51.060408Z",
+          "key": 1783745871060,
+          "doc_count": 2728,
+          "p95_latency": {
+            "values": {
+              "95.0": 189.9295087483544
+            }
+          },
+          "error_count": {
+            "value": 34
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T10:42:51.060408Z",
+          "key": 1783746771060,
+          "doc_count": 4758,
+          "p95_latency": {
+            "values": {
+              "95.0": 199.35625800280326
+            }
+          },
+          "error_count": {
+            "value": 45
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T10:57:51.060408Z",
+          "key": 1783747671060,
+          "doc_count": 1229,
+          "p95_latency": {
+            "values": {
+              "95.0": 149.73914073797962
+            }
+          },
+          "error_count": {
+            "value": 39
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T11:12:51.060408Z",
+          "key": 1783748571060,
+          "doc_count": 4960,
+          "p95_latency": {
+            "values": {
+              "95.0": 244.4806306995257
+            }
+          },
+          "error_count": {
+            "value": 5
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T11:27:51.060408Z",
+          "key": 1783749471060,
+          "doc_count": 4497,
+          "p95_latency": {
+            "values": {
+              "95.0": 218.13909824926424
+            }
+          },
+          "error_count": {
+            "value": 19
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T11:42:51.060408Z",
+          "key": 1783750371060,
+          "doc_count": 2643,
+          "p95_latency": {
+            "values": {
+              "95.0": 234.73610532617445
+            }
+          },
+          "error_count": {
+            "value": 34
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T11:57:51.060408Z",
+          "key": 1783751271060,
+          "doc_count": 1458,
+          "p95_latency": {
+            "values": {
+              "95.0": 805.252453161572
+            }
+          },
+          "error_count": {
+            "value": 201
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T12:12:51.060408Z",
+          "key": 1783752171060,
+          "doc_count": 1953,
+          "p95_latency": {
+            "values": {
+              "95.0": 204.89573858598942
+            }
+          },
+          "error_count": {
+            "value": 13
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T12:27:51.060408Z",
+          "key": 1783753071060,
+          "doc_count": 2974,
+          "p95_latency": {
+            "values": {
+              "95.0": 1359.8523882601905
+            }
+          },
+          "error_count": {
+            "value": 327
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T12:42:51.060408Z",
+          "key": 1783753971060,
+          "doc_count": 4430,
+          "p95_latency": {
+            "values": {
+              "95.0": 225.89329536034597
+            }
+          },
+          "error_count": {
+            "value": 16
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T12:57:51.060408Z",
+          "key": 1783754871060,
+          "doc_count": 3678,
+          "p95_latency": {
+            "values": {
+              "95.0": 221.19552360755642
+            }
+          },
+          "error_count": {
+            "value": 46
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T13:12:51.060408Z",
+          "key": 1783755771060,
+          "doc_count": 1329,
+          "p95_latency": {
+            "values": {
+              "95.0": 139.65147220374323
+            }
+          },
+          "error_count": {
+            "value": 33
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T13:27:51.060408Z",
+          "key": 1783756671060,
+          "doc_count": 4467,
+          "p95_latency": {
+            "values": {
+              "95.0": 280.1397069611519
+            }
+          },
+          "error_count": {
+            "value": 29
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T13:42:51.060408Z",
+          "key": 1783757571060,
+          "doc_count": 1667,
+          "p95_latency": {
+            "values": {
+              "95.0": 198.80358912927446
+            }
+          },
+          "error_count": {
+            "value": 14
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T13:57:51.060408Z",
+          "key": 1783758471060,
+          "doc_count": 4984,
+          "p95_latency": {
+            "values": {
+              "95.0": 987.1666632127731
+            }
+          },
+          "error_count": {
+            "value": 291
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T14:12:51.060408Z",
+          "key": 1783759371060,
+          "doc_count": 3359,
+          "p95_latency": {
+            "values": {
+              "95.0": 280.9727429327611
+            }
+          },
+          "error_count": {
+            "value": 33
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T14:27:51.060408Z",
+          "key": 1783760271060,
+          "doc_count": 2054,
+          "p95_latency": {
+            "values": {
+              "95.0": 268.7085266340437
+            }
+          },
+          "error_count": {
+            "value": 10
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T14:42:51.060408Z",
+          "key": 1783761171060,
+          "doc_count": 4961,
+          "p95_latency": {
+            "values": {
+              "95.0": 282.4961868279218
+            }
+          },
+          "error_count": {
+            "value": 49
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T14:57:51.060408Z",
+          "key": 1783762071060,
+          "doc_count": 4079,
+          "p95_latency": {
+            "values": {
+              "95.0": 293.2320522623741
+            }
+          },
+          "error_count": {
+            "value": 25
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T15:12:51.060408Z",
+          "key": 1783762971060,
+          "doc_count": 1012,
+          "p95_latency": {
+            "values": {
+              "95.0": 161.40844676276413
+            }
+          },
+          "error_count": {
+            "value": 6
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T15:27:51.060408Z",
+          "key": 1783763871060,
+          "doc_count": 3253,
+          "p95_latency": {
+            "values": {
+              "95.0": 239.86009151320567
+            }
+          },
+          "error_count": {
+            "value": 42
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T15:42:51.060408Z",
+          "key": 1783764771060,
+          "doc_count": 3500,
+          "p95_latency": {
+            "values": {
+              "95.0": 218.85842303114904
+            }
+          },
+          "error_count": {
+            "value": 11
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T15:57:51.060408Z",
+          "key": 1783765671060,
+          "doc_count": 1600,
+          "p95_latency": {
+            "values": {
+              "95.0": 206.12559271415574
+            }
+          },
+          "error_count": {
+            "value": 45
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T16:12:51.060408Z",
+          "key": 1783766571060,
+          "doc_count": 3467,
+          "p95_latency": {
+            "values": {
+              "95.0": 109.098671821628
+            }
+          },
+          "error_count": {
+            "value": 50
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T16:27:51.060408Z",
+          "key": 1783767471060,
+          "doc_count": 3831,
+          "p95_latency": {
+            "values": {
+              "95.0": 293.54221120116017
+            }
+          },
+          "error_count": {
+            "value": 28
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T16:42:51.060408Z",
+          "key": 1783768371060,
+          "doc_count": 4422,
+          "p95_latency": {
+            "values": {
+              "95.0": 221.17392625302944
+            }
+          },
+          "error_count": {
+            "value": 21
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T16:57:51.060408Z",
+          "key": 1783769271060,
+          "doc_count": 3159,
+          "p95_latency": {
+            "values": {
+              "95.0": 104.94614400717823
+            }
+          },
+          "error_count": {
+            "value": 44
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T17:12:51.060408Z",
+          "key": 1783770171060,
+          "doc_count": 4490,
+          "p95_latency": {
+            "values": {
+              "95.0": 228.74796762861519
+            }
+          },
+          "error_count": {
+            "value": 35
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T17:27:51.060408Z",
+          "key": 1783771071060,
+          "doc_count": 2955,
+          "p95_latency": {
+            "values": {
+              "95.0": 146.91620283746965
+            }
+          },
+          "error_count": {
+            "value": 11
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T17:42:51.060408Z",
+          "key": 1783771971060,
+          "doc_count": 1038,
+          "p95_latency": {
+            "values": {
+              "95.0": 188.44001675147354
+            }
+          },
+          "error_count": {
+            "value": 22
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T17:57:51.060408Z",
+          "key": 1783772871060,
+          "doc_count": 1235,
+          "p95_latency": {
+            "values": {
+              "95.0": 272.4392607949981
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T18:12:51.060408Z",
+          "key": 1783773771060,
+          "doc_count": 1904,
+          "p95_latency": {
+            "values": {
+              "95.0": 289.29759558567525
+            }
+          },
+          "error_count": {
+            "value": 23
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T18:27:51.060408Z",
+          "key": 1783774671060,
+          "doc_count": 2069,
+          "p95_latency": {
+            "values": {
+              "95.0": 207.43342369780163
+            }
+          },
+          "error_count": {
+            "value": 43
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T18:42:51.060408Z",
+          "key": 1783775571060,
+          "doc_count": 3255,
+          "p95_latency": {
+            "values": {
+              "95.0": 213.4648868860342
+            }
+          },
+          "error_count": {
+            "value": 9
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T18:57:51.060408Z",
+          "key": 1783776471060,
+          "doc_count": 3425,
+          "p95_latency": {
+            "values": {
+              "95.0": 253.99453488252587
+            }
+          },
+          "error_count": {
+            "value": 47
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T19:12:51.060408Z",
+          "key": 1783777371060,
+          "doc_count": 2150,
+          "p95_latency": {
+            "values": {
+              "95.0": 281.85660931135453
+            }
+          },
+          "error_count": {
+            "value": 30
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T19:27:51.060408Z",
+          "key": 1783778271060,
+          "doc_count": 3756,
+          "p95_latency": {
+            "values": {
+              "95.0": 245.14465843184448
+            }
+          },
+          "error_count": {
+            "value": 31
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T19:42:51.060408Z",
+          "key": 1783779171060,
+          "doc_count": 3978,
+          "p95_latency": {
+            "values": {
+              "95.0": 272.47757681286555
+            }
+          },
+          "error_count": {
+            "value": 25
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T19:57:51.060408Z",
+          "key": 1783780071060,
+          "doc_count": 2129,
+          "p95_latency": {
+            "values": {
+              "95.0": 172.7627098468277
+            }
+          },
+          "error_count": {
+            "value": 21
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T20:12:51.060408Z",
+          "key": 1783780971060,
+          "doc_count": 3816,
+          "p95_latency": {
+            "values": {
+              "95.0": 270.1222597701479
+            }
+          },
+          "error_count": {
+            "value": 40
+          }
+        },
+        {
+          "key_as_string": "2026-07-11T20:27:51.060408Z",
+          "key": 1783781871060,
+          "doc_count": 4800,
+          "p95_latency": {
+            "values": {
+              "95.0": 147.6019969183934
+            }
+          },
+          "error_count": {
+            "value": 50
+          }
+        }
+      ]
+    }
+  }
+}
