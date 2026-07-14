@@ -2,107 +2,100 @@
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
+import polars as pl
+import yaml
 import json
-import os
-
-# Import our backend modules
-from src.backend.processor import DataProcessor
-from src.backend.ml_anomaly import AnomalyDetector
-from src.backend.payload_monitor import PayloadMonitor
 
 # --- Page Config ---
-st.set_page_config(page_title="API Observability Platform", layout="wide")
-st.title("🛡️ API Observability & Anomaly Dashboard")
-st.markdown("Monitoring API Latency, Error Rates, and Payload Drift using Agentic ML.")
+st.set_page_config(page_title="API Observability (V2 Ensemble)", layout="wide")
+st.title("🛡️ API Observability: V2 Ensemble AI")
+st.markdown("Comparing Isolation Forest, Amazon Chronos, and IBM TTM.")
 
-# --- Helper Function to Load Data ---
+# --- Load Config & Data ---
 @st.cache_data
-def load_and_process_data():
-    """Loads mock data and runs it through our backend engine."""
-    # 1. Load Metrics
-    with open("mock_es_response.json", "r") as f:
-        es_response = json.load(f)
+def load_data():
+    # Load Config
+    with open("config/config.yaml", "r") as f:
+        config = yaml.safe_load(f)
     
-    processor = DataProcessor()
-    df = processor.process_es_aggregations(es_response)
-    
-    detector = AnomalyDetector(contamination=0.05)
-    df_with_anomalies = detector.detect_anomalies(df, features=["p95_latency", "error_rate"])
-    
-    # 2. Load Payloads
+    # Load V2 Results
+    try:
+        df = pl.read_json("v2_ensemble_results.json").to_pandas()
+    except Exception:
+        st.error("Could not find v2_ensemble_results.json. Did you run main_engine.py?")
+        st.stop()
+        
+    # Load Payload Drift Results
     with open("payloads_yesterday.json", "r") as f:
         yesterday_data = json.load(f)
     with open("payloads_today.json", "r") as f:
         today_data = json.load(f)
         
+    from src.backend.payload_monitor import PayloadMonitor
     monitor = PayloadMonitor()
     drift_results = monitor.detect_data_drift(yesterday_data, today_data, target_fields=["user.account_balance"])
-    
-    return df_with_anomalies, drift_results
+        
+    return config, df, drift_results
 
-# --- Load Data ---
-try:
-    df_with_anomalies, drift_results = load_and_process_data()
-    # Convert Polars to Pandas for easier Plotly integration
-    df_pd = df_with_anomalies.to_pandas()
-except Exception as e:
-    st.error(f"Error loading data. Did you run the mock data generators? Details: {e}")
-    st.stop()
+config, df_pd, drift_results = load_data()
+models_cfg = config["apis"][0]["anomaly_detection"]["models"]
 
 # --- UI Layout: Top Metrics ---
-st.subheader("Live API Metrics (Last 24 Hours)")
-col1, col2, col3 = st.columns(3)
+st.subheader("Ensemble Model Performance")
+col1, col2, col3, col4 = st.columns(4)
 
-total_requests = df_pd["request_count"].sum()
-total_anomalies = df_pd["is_anomaly"].sum()
-avg_latency = df_pd["p95_latency"].mean()
-
-col1.metric("Total Requests", f"{total_requests:,}")
-col2.metric("Anomalies Detected", int(total_anomalies), delta_color="inverse")
-col3.metric("Avg P95 Latency", f"{avg_latency:.2f} ms")
+col1.metric("PyOD (Isolation Forest)", f"{df_pd['anomaly_iforest'].sum()} Alerts")
+col2.metric("Amazon Chronos (TSFM)", f"{df_pd['anomaly_chronos'].sum()} Alerts")
+col3.metric("IBM TTM (Statistical)", f"{df_pd['anomaly_ttm'].sum()} Alerts")
+col4.metric("🚨 True Consensus Alerts", f"{df_pd['consensus_anomaly'].sum()} Alerts", delta="High Confidence", delta_color="inverse")
 
 # --- UI Layout: Time-Series Chart ---
-st.markdown("### 📈 P95 Latency & Anomaly Detection (Isolation Forest)")
+st.markdown("### 📈 Multi-Model Anomaly Comparison")
 
-# Create a Plotly line chart for latency
-fig = px.line(df_pd, x="timestamp", y="p95_latency", 
-              labels={"timestamp": "Time", "p95_latency": "P95 Latency (ms)"})
+# Base Line Chart
+fig = px.line(df_pd, x="timestamp", y="p95_latency", labels={"timestamp": "Time", "p95_latency": "P95 Latency (ms)"})
+fig.update_traces(line_color="lightgrey") # Make the base line subtle
 
-# Filter out the anomalies and overlay them as red dots
-anomalies_df = df_pd[df_pd["is_anomaly"] == True]
-fig.add_trace(
-    go.Scatter(
-        x=anomalies_df["timestamp"], 
-        y=anomalies_df["p95_latency"],
-        mode="markers",
-        marker=dict(color="red", size=10, symbol="x"),
-        name="Anomaly"
-    )
-)
+# 1. Plot PyOD (If Enabled)
+if models_cfg.get("isolation_forest", {}).get("enabled"):
+    anomalies = df_pd[df_pd["anomaly_iforest"] == True]
+    fig.add_trace(go.Scatter(x=anomalies["timestamp"], y=anomalies["p95_latency"], 
+                             mode="markers", marker=dict(color="blue", size=8, symbol="circle"), name="PyOD"))
+
+# 2. Plot Chronos (If Enabled)
+if models_cfg.get("chronos_t5", {}).get("enabled"):
+    anomalies = df_pd[df_pd["anomaly_chronos"] == True]
+    fig.add_trace(go.Scatter(x=anomalies["timestamp"], y=anomalies["p95_latency"], 
+                             mode="markers", marker=dict(color="orange", size=6, symbol="triangle-up"), name="Chronos"))
+
+# 3. Plot TTM (If Enabled)
+if models_cfg.get("ibm_ttm", {}).get("enabled"):
+    anomalies = df_pd[df_pd["anomaly_ttm"] == True]
+    fig.add_trace(go.Scatter(x=anomalies["timestamp"], y=anomalies["p95_latency"], 
+                             mode="markers", marker=dict(color="green", size=8, symbol="square"), name="IBM TTM"))
+
+# 4. Plot TRUE CONSENSUS (The big red X)
+consensus = df_pd[df_pd["consensus_anomaly"] == True]
+fig.add_trace(go.Scatter(x=consensus["timestamp"], y=consensus["p95_latency"], 
+                         mode="markers", marker=dict(color="red", size=14, symbol="x", line=dict(width=2, color="darkred")), 
+                         name="🔥 CONSENSUS ALERT"))
 
 st.plotly_chart(fig, use_container_width=True)
 
 # --- UI Layout: Payload Drift ---
 st.markdown("### ⚠️ Payload Statistical Drift (Evidently AI)")
-st.info("Monitoring nested field: `user.account_balance`")
-
 drift_score = drift_results.get("user.account_balance", {}).get("psi_score", 0)
 is_drifted = drift_results.get("user.account_balance", {}).get("is_drifted", False)
 
 drift_col1, drift_col2 = st.columns([1, 3])
 with drift_col1:
-    st.metric(
-        label="Population Stability Index (PSI)", 
-        value=f"{drift_score:.4f}",
-        delta="Drift Detected!" if is_drifted else "Stable",
-        delta_color="inverse" if is_drifted else "normal"
-    )
+    st.metric(label="Population Stability Index (PSI)", value=f"{drift_score:.4f}")
 with drift_col2:
     if is_drifted:
-        st.error("🚨 **High Data Drift Detected!** The distribution of `user.account_balance` has changed significantly compared to yesterday. This could indicate a change in client behavior or a backend bug.")
+        st.error("🚨 **High Data Drift Detected!** The distribution of `user.account_balance` has changed significantly.")
     else:
         st.success("✅ Payload distribution is stable.")
 
-# --- UI Layout: Raw Anomaly Data ---
-with st.expander("View Raw Anomaly Data"):
-    st.dataframe(anomalies_df[["timestamp", "request_count", "p95_latency", "error_rate", "anomaly_score"]])
+# --- UI Layout: Raw Data Table ---
+with st.expander("View Raw Ensemble Data"):
+    st.dataframe(df_pd[["timestamp", "p95_latency", "anomaly_iforest", "anomaly_chronos", "anomaly_ttm", "consensus_anomaly"]])

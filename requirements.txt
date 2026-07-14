@@ -3,10 +3,17 @@ elasticsearch>=8.0.0      # Official ES client
 polars>=0.20.0            # Fast in-memory dataframe
 pyarrow>=14.0.0           # Required by Polars for zero-copy pandas/numpy conversions
 
-# --- ML & Anomaly Detection Layer ---
+# --- ML & Anomaly Detection Layer (V1) ---
 numpy<=2.4.6              # Pinned to satisfy Numba/PyOD requirements
 scikit-learn>=1.3.0       # Base ML utilities
 pyod>=1.1.2               # Python Outlier Detection (Isolation Forest)
+
+# --- V2 TSFM Ensemble Layer (Hugging Face) ---
+torch>=2.0.0              # PyTorch backend for neural networks
+transformers>=4.38.0      # Hugging Face model execution
+huggingface_hub>=0.23.0   # Model downloading and caching
+chronos-forecasting>=0.0.1 # Amazon Chronos specific utilities
+accelerate>=0.27.0        # Required for efficient CPU/GPU model loading
 
 # --- Payload & Drift Detection Layer ---
 deepdiff>=6.7.1           # Deterministic JSON schema comparison
